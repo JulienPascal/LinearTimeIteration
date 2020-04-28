@@ -1,9 +1,10 @@
 # LinearTimeIteration
 
-This repository contains a notebook illustrating the Linear Time Iteration Algorithm algorithm of Pontus Rendahl in Julia.
+This repository contains a notebook illustrating the Linear Time Iteration Algorithm algorithm of Pontus Rendahl (2017) using Julia.
 
 ## Notebook
 
+https://github.com/JulienPascal/LinearTimeIteration/blob/master/Linear%20Time%20Iteration.ipynb
 
 ## References
 
