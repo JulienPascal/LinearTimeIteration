@@ -1,21 +1,21 @@
 # Linear Time Iteration
 
-This repository contains a notebook illustrating the Linear Time Iteration (LTE) Algorithm algorithm of Pontus Rendahl (2017) using Julia.
+This repository contains a notebook illustrating the Linear Time Iteration (LTE) Algorithm algorithm of [Pontus Rendahl (2017)](https://www.ihs.ac.at/publications/eco/es-330.pdf) using Julia.
 
-## Notebook
+## Notebooks
 
-### LTE in a simple setting
+### I. LTE in a simple setting
 
 https://github.com/JulienPascal/LinearTimeIteration/blob/master/Linear%20Time%20Iteration.ipynb
 
-![alt text](https://github.com/JulienPascal/LinearTimeIteration/blob/master/Linear Time Iteration_50_1.png)
+![alt text](https://raw.githubusercontent.com/JulienPascal/LinearTimeIteration/master/Linear%20Time%20Iteration_50_1.png)
 
 
-### Neoclassical growth model
+### II. Neoclassical growth model
 
 https://github.com/JulienPascal/LinearTimeIteration/blob/master/Linear%20Time%20Iteration%20Stochastic%20Growth%20Model.ipynb
 
-![alt text](https://github.com/JulienPascal/LinearTimeIteration/blob/master/Linear Time Iteration Stochastic Growth Model_33_0.png)
+![alt text](https://raw.githubusercontent.com/JulienPascal/LinearTimeIteration/master/Linear%20Time%20Iteration%20Stochastic%20Growth%20Model_33_0.png)
 
 
 ## References
