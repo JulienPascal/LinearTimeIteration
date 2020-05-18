@@ -8,9 +8,15 @@ This repository contains a notebook illustrating the Linear Time Iteration (LTE)
 
 https://github.com/JulienPascal/LinearTimeIteration/blob/master/Linear%20Time%20Iteration.ipynb
 
+![alt text](https://github.com/JulienPascal/LinearTimeIteration/blob/master/Linear Time Iteration_50_1.png)
+
+
 ### Neoclassical growth model
 
 https://github.com/JulienPascal/LinearTimeIteration/blob/master/Linear%20Time%20Iteration%20Stochastic%20Growth%20Model.ipynb
+
+![alt text](https://github.com/JulienPascal/LinearTimeIteration/blob/master/Linear Time Iteration Stochastic Growth Model_33_0.png)
+
 
 ## References
 
